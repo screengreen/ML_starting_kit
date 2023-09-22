@@ -1,0 +1,11 @@
+backlog.txt
+test.py
+data/predictions
+data/processed_data
+data/raw_data
+config/config.yaml
+catboost_info
+models/model-data_comet-sklearn-model.joblib
+__pycache__/
+*.joblib
+data/data.txt
